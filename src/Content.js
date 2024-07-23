@@ -67,8 +67,8 @@ export const content = {
     image: Hero_person,
     hero_content: [
       {
-        count: "8+",
-        text: "Months of Experinse in Web development",
+        count: "1+",
+        text: "Years of Experinse in Web development",
       },
       {
         count: "20+",
@@ -82,43 +82,43 @@ export const content = {
     skills_content: [
       {
         name: "HTML",
-        para: "Lorem ipsum text  dummy",
+        para: "Creation of several showcase websites with HTML since 2021.",
         logo: html,
       },
       {
         name: "CSS",
-        para: "Lorem ipsum text  dummy",
+        para: "Layout of several websites with CSS styles.",
         logo: css,
       },
       {
         name: "React js",
-        para: "Lorem ipsum text  dummy",
+        para: "Creation of several projects with React JS, like this portfolio.",
         logo: reactjs,
       },
       {
         name: "Node js",
-        para: "Lorem ipsum text  dummy",
+        para: "Development of various projects using Node.js.",
         logo: nodejs,
       },
       {
         name: "Express Js",
-        para: "Lorem ipsum text  dummy",
+        para: "Built multiple projects using Express.js.",
         logo: express,
       },
    
       {
         name: "PHP",
-        para: "Lorem ipsum text  dummy",
+        para: "Developed numerous projects using PHP.",
         logo: php,
       },
       {
         name: "Symfony",
-        para: "Lorem ipsum text  dummy",
+        para: "Worked on several projects with Symfony.",
         logo: symfony,
       },
       {
         name: "Wordpress",
-        para: "Lorem ipsum text  dummy",
+        para: "Built various projects using WordPress.",
         logo: wordpress,
       },
      
@@ -131,17 +131,17 @@ export const content = {
     service_content: [
       {
         title: "design of a web application",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        para: "Web Application Design: We turn your ideas into tangible solutions by creating custom web application concepts.",
         logo: services_logo2,
       },
       {
         title: "development of a web application",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        para: "We develop robust and scalable web applications using the latest technologies.",
         logo: services_logo1,
       },
       {
         title: "deployment on the net",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        para: "We ensure a smooth and secure deployment of your web application.",
         logo: services_logo3,
       },
     ],
@@ -165,42 +165,12 @@ export const content = {
       },
     ],
   },
-  Testimonials: {
-    title: "Testimonials",
-    subtitle: "MY CLIENT REVIEWS",
-    testimonials_content: [
-      {
-        review:
-          "“In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
-        img: avatar1,
-        name: "JOHN DOE",
-      },
-      {
-        review:
-          "“In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
-        img: avatar2,
-        name: "Tom Alex",
-      },
-      {
-        review:
-          "“In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
-        img: avatar3,
-        name: "Johnny",
-      },
-      {
-        review:
-          "“In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
-        img: avatar4,
-        name: "ROBBIN",
-      },
-    ],
-  },
   Hireme: {
     title: "Hire Me",
     subtitle: "FOR YOUR PROJECTS",
     image1: Hireme_person,
     image2: Hireme_person2,
-    para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+    para: "Passionate about web development and with solid experience in creating high-performing and innovative applications, I am ready to bring my expertise in Symfony and React JS to contribute to the success of your team. Let’s work together to turn your projects into concrete successes!",
     btnText: "Hire Me",
   },
   Contact: {
@@ -210,17 +180,17 @@ export const content = {
       {
         text: "mamizarahenricanisius.pro@gmail.com",
         icon: GrMail,
-        link: "mailto:codeaprogram@gmail.com",
+        link: "Mailto:mamizarahenricanisius.pro@gmail.com",
       },
       {
         text: "+261 38 41 780 34",
         icon: MdCall,
-        link: "https://wa.me/1234567890",
+        link: "https://wa.me/261384178034",
       },
       {
         text: "Mamizara Canisius",
         icon: BsInstagram,
-        link: "https://www.instagram.com/codeaprogram/",
+        link: "https://www.instagram.com/canisiusmh/",
       },
     ],
   },

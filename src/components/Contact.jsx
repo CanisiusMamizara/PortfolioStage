@@ -13,7 +13,7 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-      'YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', form.current, 'YOUR_PUBLIC_KEY'
+      'service_j3on6ty', 'template_ilt2qdc', form.current, '2IFbiprdhf6Mf1YjE'
       )
       .then(
         (result) => {
@@ -51,7 +51,7 @@ const Contact = () => {
             {/* Input Name as same as email js templates values */}
             <input
               type="text"
-              name="from_name"
+              name="user_name"
               placeholder="Name"
               required
               className="border border-slate-600 p-3 rounded"
